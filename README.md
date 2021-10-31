@@ -4,5 +4,5 @@ A recommender system, or a recommendation system, is a subclass of information f
 
 In here I would like to share Collaborative Book Recommendation System
 
-A case that proposed a reader with new book that the genre probably interest
+A case that proposed a reader with new book that the genre is similar and business user probably interest
 
